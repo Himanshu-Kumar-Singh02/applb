@@ -1,0 +1,404 @@
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+/* body{
+  font-family:"Montserrat";
+  text-align: center;
+} */
+
+h1, h2, h3, h4, h5, h6 {
+font-family:"Montserrat-bold";
+font-weight: bold
+}
+
+.fas{
+  font-size: 2rem;
+  padding: 20px;
+  border-radius: 100%;
+  /* background-color: red; */
+
+}
+
+#menu{
+  padding:40px 260px;
+}
+
+#venu{
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+  padding-right: 260px;
+  padding-left: 80px;
+}
+
+.venuimg{
+  width:100%;
+  height: 100%;
+}
+
+.menubox{
+  padding: 20px;
+}
+
+#tenu{
+  padding:40px 180px;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+@media (min-width:992px) {
+  .tenubigbox{
+    border-right: 1px solid lightgrey;
+  }
+  .ctaimg{
+    width:100%;
+    height:100%;
+  }
+  .section-heading{
+    font-size:3rem;
+    /* line-height: 1.5; */
+  }
+
+  .fas{
+    font-size: 2rem;
+    padding: 20px;
+    border-radius: 100%;
+
+  }
+  .cta-heading{
+    font-family:"Montserrat-thin";
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+  }
+  #question{
+    text-align: center;
+    padding: 40px 260px;
+  }
+
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+@media (max-width:991px) {
+  p{
+    font-size: 1.2rem;
+  }
+h5{
+  font-size: 2rem;
+}
+
+  .fas{
+    font-size: 5rem;
+    padding: 20px;
+    border-radius: 100%;
+
+  }
+
+  .tenubigbox{
+    border-bottom: 1px solid lightgrey;
+  }
+  .ctaimg{
+    width:100%;
+    height:100%;
+    padding-left:90px;
+    padding-right: 90px;
+    padding-bottom: 90px;
+  }
+  .navbar-toggler-icon{
+    font-size: 4rem;
+  }
+  .nav-link{
+    font-size: 2rem;
+  }
+  span{
+    font-size: 2.5rem;
+  }
+  .btn-primary{
+    font-size: 2.5rem;
+  }
+  .section-heading{
+    font-size:3.5rem;
+
+  }
+  .cta-heading{
+    font-family:"Montserrat-thin";
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: bold;
+  }
+  #question{
+    text-align: center;
+    padding: 40px 100px;
+  }
+  .content{
+    font-size: 1.5rem;
+  }
+  #venu{
+    padding-bottom: 40px;
+    border-bottom: 1px solid lightgrey;
+  }
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+.tenubox{
+  padding: 20px;
+}
+
+
+#senu{
+  padding:40px 180px;
+}
+
+td{
+  padding: 10px;
+}
+
+
+#renu{
+  padding:40px 180px;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+                                              /* TITLE-BUTTONS */
+
+/* .titlebutton{
+  margin: 5% 5% 5% 0;
+} */
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+                                              /* Headings */
+
+.Big-heading{
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+                                             /* SECTION-TITLE */
+
+#title {
+background-color: #eeeeee;
+
+}
+
+ .z{
+padding: 3% 7%;
+}
+
+/* #title .container-fluid {
+  padding: 3% 15% 7%;
+}  */
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+                  /* Nav Bar */
+
+  .nav-item{
+    padding:0 15px;
+            }
+
+/* .navbar{
+  padding:0 0 4.5rem;
+}
+.navbar-brand{
+  font-family: "ubuntu";
+  font-size: 2.5rem;
+}
+.nav-item{
+  padding:0 18px;
+}
+.nav-link{
+  font-size:1.2rem;
+  font-family: "Montserrat-light";
+} */
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+                     /* Title  */
+
+.title-image{
+  width:60%;
+  transform: rotate(25deg);
+  position:absolute;
+  right:30%
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+                                          /* SECTION-FEATURES */
+
+#features{
+    padding:40px 180px;
+  text-align: center;
+  /* background-color: #fff;
+  position: relative; */
+}
+
+/* .feature-heading{
+font-size: 1.5rem;
+} */
+
+.feature-box{
+  height: 120px;
+  width: 120px;
+  margin :40px;
+}
+
+/* .col-lg-2.4{
+  margin: 40px;
+} */
+
+/* .feature-logo{
+  color:red;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+.feature-logo:hover{
+  color:#b80d57;
+} */
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+                                             /* SECTION-TESTIMONIALS */
+
+#testimonials{
+
+  background-color: #d63447;
+  color:#fff;
+}
+
+.testimonial-image{
+  width:20%;
+  border-radius:100%;
+}
+
+.testimonial-image.girl{
+  width:17.15%
+}
+ .container-fluid.dog{
+padding: 7% 20%;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+                                             /* SECTION-PRESS */
+
+#press{
+  background-color:#d63447;
+   padding-bottom: 5%;
+}
+
+.press-img{
+  width:15%;
+  margin:20px 20px 30px;
+
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+                                             /* SECTION-question */
+
+/* #question{
+  text-align: center;
+  padding: 40px 260px;
+} */
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+                                             /* SECTION-CTA */
+
+#cta{
+  /* background-color: #fe346e;
+  color: #fff; */
+  border-top: 1px solid lightgrey;
+}
+
+.cta-section{
+    font-family: "Montserrat";
+    font-weight: bold;
+    padding:5%;
+}
+
+.imgcta{
+  height: 80px;
+  width:180px;
+}
+
+
+
+/* .cta-heading{
+  font-family:"Montserrat-thin";
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+} */
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+                                             /* SECTION-FOOTER */
+
+#footer{
+  text-align: center;
+  padding-top: 7%;
+  background-color: #1d1b38;
+  color:white;
+  padding-bottom: 3%;
+}
+
+.footer-logo{
+  margin: 7px;
+  font-size: 1.2rem;
+}
+
+.footer-line{
+  margin-top: 50px;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+                                             /* SECTION-MEDIA-TITLE */
+/* @media (max-width:991px)
+{ .title-row{
+  text-align:center;
+}
+  .title-image{
+    position: static;
+    transform: rotate(0);
+  }
+} */
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+/* @media (min-width:992px) and (max-width:1134px)
+{ .title-row{
+  text-align:center;
+}
+.iphone-img{
+  padding-left: 5%;
+}
+  .title-image{
+    position: static;
+    transform: rotate(0);
+  }
+} */
